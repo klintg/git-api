@@ -1,0 +1,22 @@
+{
+  "name": "git-prof",
+  "version": "1.0.0",
+  "description": "\"github profiles with react\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "klint",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "5.8.*",
+    "babel-loader": "5.3.*",
+    "webpack": "1.12.*"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
+}
